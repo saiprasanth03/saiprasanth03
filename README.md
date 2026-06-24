@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=220&section=header&text=Sai%20Prasanth&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=220&section=header&text=Sai%20Prasanth&fontSize=45&fontColor=ffffff&animation=fadeIn" /> -->
 
 <h1 align="center">Hi 👋, I'm Sai Prasanth</h1>
 
@@ -10,14 +10,13 @@ Full Stack Developer | Building Real-World Solutions Through Technology
 Passionate Computer Science student with a strong interest in Full Stack Development, Artificial Intelligence, Machine Learning, and Problem Solving. I enjoy creating scalable web applications, building innovative solutions, and continuously learning modern technologies.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saiprasanth03">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://ssaiprasanth.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+<a href="https://ssaiprasanth.netlify.app/">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/saiprasanth03">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 ---
 
@@ -247,7 +246,7 @@ Applying Computer Vision and Deep Learning models to predict geological paramete
 
 # 🌐 Connect With Me
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/saiprasanth03">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -259,6 +258,22 @@ Applying Computer Vision and Deep Learning models to predict geological paramete
 <a href="https://ssaiprasanth.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=for-the-badge" />
 </a>
+</p> -->
+
+<p align="center">
+
+<a href="https://ssaiprasanth.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/saiprasanth03">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
