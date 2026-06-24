@@ -10,13 +10,14 @@ Full Stack Developer | Building Real-World Solutions Through Technology
 Passionate Computer Science student with a strong interest in Full Stack Development, Artificial Intelligence, Machine Learning, and Problem Solving. I enjoy creating scalable web applications, building innovative solutions, and continuously learning modern technologies.
 </p>
 
+<p align="center">
 <a href="https://ssaiprasanth.netlify.app/">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" />
 </a>
-
-<a href="https://www.linkedin.com/in/saiprasanth03">
+</p>
+<!-- <a href="https://www.linkedin.com/in/saiprasanth03">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+</a> -->
 
 ---
 
@@ -42,8 +43,7 @@ Passionate Computer Science student with a strong interest in Full Stack Develop
 - Node.js
 - Express.js
 - Backend Development
-- Machine Learning
-- AI Agents
+- AI Agents 
 - System Design
 
 ⚡ Goal:
@@ -62,7 +62,7 @@ Build impactful software products that combine Web Development and Artificial In
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
 </p>
 
 ### Backend Development
@@ -82,24 +82,6 @@ Build impactful software products that combine Web Development and Artificial In
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,netlify" />
 </p>
-
----
-
-# 🤖 AI & Machine Learning
-
-### Areas of Interest
-
-- Machine Learning
-- Artificial Intelligence
-- Data Analysis
-- Predictive Modeling
-- Computer Vision
-- AI Agents
-- Deep Learning
-
-### Current Focus
-
-Developing intelligent systems capable of solving real-world engineering and industrial challenges using Machine Learning and Artificial Intelligence.
 
 ---
 
@@ -224,29 +206,20 @@ Applying Computer Vision and Deep Learning models to predict geological paramete
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saiprasanth03&theme=algolia&row=1&column=7" />
-</p>
-
----
-
 # 🌱 Currently Exploring
 
 - React Ecosystem
 - Backend Development with Node.js
 - Express.js
 - AI Tools & Automation
-- Machine Learning
 - AI Agents
-- Open Source Contributions
+- Building websites for clients
 
 ---
 
 # 🌐 Connect With Me
 
-<!-- <p align="center">
+<p align="center">
 <a href="https://www.linkedin.com/in/saiprasanth03">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -255,26 +228,13 @@ Applying Computer Vision and Deep Learning models to predict geological paramete
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://ssaiprasanth.netlify.app/">
+<!-- <a href="https://ssaiprasanth.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=for-the-badge" />
-</a>
-</p> -->
-
-<p align="center">
-
+</a> -->
 <a href="https://ssaiprasanth.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" />
+  <img src="https://img.icons8.com/fluency/96/domain.png" width="48"/>
 </a>
-
-<a href="https://www.linkedin.com/in/saiprasanth03">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+</p> 
 
 ---
 
