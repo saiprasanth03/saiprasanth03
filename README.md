@@ -2,113 +2,77 @@
 
 ### Full Stack Developer | AI & Machine Learning Enthusiast
 
-Passionate Computer Science student with a strong interest in Full Stack Development, Artificial Intelligence, and Machine Learning. I enjoy building responsive web applications, solving real-world problems through technology, and continuously learning modern development tools and frameworks.
+---
+
+## 🚀 Tech Stack & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,,react,nodejs,firebase,mongodb,python,java,c,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🛠 Developer Tools
 
-- 🎓 Engineering Student
-- 💻 Full Stack Developer
-- 🌱 Currently learning Backend Development,DSA
-- 🤖 Working on AI-Based Rockfall Prediction for Open-Pit Mines
-- 📊 Interested in Machine Learning, Data Analysis, and Predictive Modeling
-- 🔭 Building scalable web applications using modern technologies
-- ⚡ Love solving coding challenges and exploring new technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 🤖 AI Tools & Platforms
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-
-### Programming Languages
-- Java
-- Python
-- JavaScript
-
-### Database
-- MySQL
-- Firebase
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Netlify
-- Vite
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-black?style=for-the-badge)
 
 ---
 
-## 🤖 Featured Project
+## 🎨 Design & Creative Tools
 
-### AI-Based Rockfall Prediction for Open-Pit Mines
-
-Developed a Machine Learning model to predict rockfall risks in mining environments using critical geological parameters such as:
-
-- Displacement
-- Strain
-- Pore Pressure
-
-The model classifies risk levels into:
-- ✅ Safe Zone
-- ⚠️ Slight Risk
-- 🚨 High Risk
-
-Currently exploring Computer Vision techniques to predict geological parameters directly from mine images using Deep Learning.
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge)
+![InShot](https://img.shields.io/badge/InShot-FF2D55?style=for-the-badge)
 
 ---
 
-## 🌐 Web Development Projects
+## 🔌 APIs & Integration
 
-### Lodge Booking Website
-
-A fully responsive lodge booking platform developed using React.js featuring:
-
-- User Authentication
-- Hotel Search Functionality
-- Lodge Details Page
-- Responsive Design
-- Modern UI/UX
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Currently Exploring
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiprasanth03&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saiprasanth03)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasanth03&layout=compact)
+![React](https://img.shields.io/badge/React_Development-20232A?style=for-the-badge&logo=react)
+![AI](https://img.shields.io/badge/AI_Tools_&_Automation-FF6B6B?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge)
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-- 🎖️ Built multiple Full Stack and AI projects
-- 📚 Continuously learning modern web technologies
-- 🚀 Deployed production-ready applications using Netlify
-- 💡 Passionate about solving real-world problems with technology
+![](https://github-readme-stats.vercel.app/api?username=saiprasanth03&show_icons=true&theme=tokyonight)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=saiprasanth03&theme=tokyonight)
 
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO_URL
-- Email: YOUR_EMAIL
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasanth03&layout=compact&theme=tokyonight)
 
 ---
 
-### 💡 Quote
+## 📈 Contribution Graph
 
-"Learning never exhausts the mind. Every project is an opportunity to grow, innovate, and create impact."
+![](https://github-readme-activity-graph.vercel.app/graph?username=saiprasanth03&theme=react-dark)
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/saiprasanth03">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:ssaiprasanth2006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
